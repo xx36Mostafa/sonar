@@ -1,4 +1,4 @@
-# Machine Learning Model Evaluation and Hyperparameter Tuning
+# Machine Learning Model Evaluation and Hyperparameter Truning
 
 This repository contains a Python script to evaluate and tune various machine learning models using K-Fold cross-validation and Grid Search for hyperparameter optimization. The script supports different scaling ranges for feature normalization and provides performance metrics for each model.
 
